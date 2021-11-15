@@ -1,7 +1,6 @@
 import './App.css';
 import { useRef, useState } from 'react';
 import { Editor } from '@tinymce/tinymce-react';
-import toolbarmock from './toolbarmock.png'
 
 function MyEditor(){
   const editorRef = useRef(null);
