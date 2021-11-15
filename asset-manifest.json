@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//toolbarfollow/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "//toolbarfollow/static/js/main.304bcdab.chunk.js",
+    "main.js.map": "//toolbarfollow/static/js/main.304bcdab.chunk.js.map",
+    "runtime-main.js": "//toolbarfollow/static/js/runtime-main.806b2b6e.js",
+    "runtime-main.js.map": "//toolbarfollow/static/js/runtime-main.806b2b6e.js.map",
+    "static/js/2.47c4b061.chunk.js": "//toolbarfollow/static/js/2.47c4b061.chunk.js",
+    "static/js/2.47c4b061.chunk.js.map": "//toolbarfollow/static/js/2.47c4b061.chunk.js.map",
+    "static/js/3.58c26623.chunk.js": "//toolbarfollow/static/js/3.58c26623.chunk.js",
+    "static/js/3.58c26623.chunk.js.map": "//toolbarfollow/static/js/3.58c26623.chunk.js.map",
+    "index.html": "//toolbarfollow/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "//toolbarfollow/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.47c4b061.chunk.js.LICENSE.txt": "//toolbarfollow/static/js/2.47c4b061.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.806b2b6e.js",
+    "static/js/2.47c4b061.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.304bcdab.chunk.js"
+  ]
+}
