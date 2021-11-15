@@ -32,7 +32,7 @@ function MyEditor(){
 }
 
 function App() {
-  const [myEditors, setMyEditors] = useState([])
+  const [myEditors, setMyEditors] = useState([<MyEditor />])
   const [counter, setCounter] = useState(0)
 
   function appendEditor(){
